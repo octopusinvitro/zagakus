@@ -17,3 +17,4 @@ Zagakus help by teaching you something new every day.
 * [Composite pattern](composite-pattern.md)
 * [Command pattern](command-pattern.md)
 * [Bowling kata](bowling-kata.md)
+* [Tell don't ask](tell-dont-ask.md)

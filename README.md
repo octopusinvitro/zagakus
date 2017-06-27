@@ -9,3 +9,4 @@ Zagakus help by teaching you something new every day.
 
 * [Strict TDD](strict-tdd.md)
 * [Pairing](pairing.md)
+* [Naming](naming.md)

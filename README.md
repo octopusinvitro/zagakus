@@ -8,3 +8,4 @@ Zagakus help by teaching you something new every day.
 ## List of Zagakus
 
 * [Strict TDD](strict-tdd.md)
+* [Pairing](pairing.md)

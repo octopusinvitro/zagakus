@@ -12,3 +12,4 @@ Zagakus help by teaching you something new every day.
 * [Naming](naming.md)
 * [Four rules of simple design - part I](fout-rules-of-sumple-design-1.md)
 * [Refactoring video](refactoring-fitnesse-video.md)
+* [Git etiquette](git-etiquette.md)

@@ -10,3 +10,4 @@ Zagakus help by teaching you something new every day.
 * [Strict TDD](strict-tdd.md)
 * [Pairing](pairing.md)
 * [Naming](naming.md)
+* [Four rules of simple design - part I](fout-rules-of-sumple-design-1.md)

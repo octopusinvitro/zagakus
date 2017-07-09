@@ -14,3 +14,4 @@ Zagakus help by teaching you something new every day.
 * [Refactoring video](refactoring-fitnesse-video.md)
 * [Git etiquette](git-etiquette.md)
 * [Test Doubles](test-doubles.md)
+* [Composite pattern](composite-pattern.md)

@@ -15,3 +15,4 @@ Zagakus help by teaching you something new every day.
 * [Git etiquette](git-etiquette.md)
 * [Test Doubles](test-doubles.md)
 * [Composite pattern](composite-pattern.md)
+* [Command pattern](command-pattern.md)

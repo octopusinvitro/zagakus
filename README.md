@@ -16,3 +16,4 @@ Zagakus help by teaching you something new every day.
 * [Test Doubles](test-doubles.md)
 * [Composite pattern](composite-pattern.md)
 * [Command pattern](command-pattern.md)
+* [Bowling kata](bowling-kata.md)

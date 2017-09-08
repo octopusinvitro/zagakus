@@ -20,3 +20,4 @@ Zagakus help by teaching you something new every day.
 * [Tell don't ask](tell-dont-ask.md)
 * [Law of Demeter](law-of-demeter.md)
 * [Agile design](agile-design.md)
+* [Videostore refactoring](videostore-refactoring.md)

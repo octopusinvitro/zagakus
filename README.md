@@ -21,3 +21,7 @@ Zagakus help by teaching you something new every day.
 * [Law of Demeter](law-of-demeter.md)
 * [Agile design](agile-design.md)
 * [Videostore refactoring](videostore-refactoring.md)
+
+### SOLID Principles
+
+* [Single Responsibility Principle](single-responsibility-principle.md)
